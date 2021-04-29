@@ -7,6 +7,11 @@ Deeplearning 분야에서 멀티 모달리티 integration은 갈수록 중요해
 - 15만장 이상의 이미지, 5개 caption  
 [COCO data](https://cocodataset.org/#home)
 
+## Files
+- project4_v1_run.ipynb : model.py, utils.py가 필요합니다.
+- practice_code.ipynb : 주석이 많이 달려있어서 모델 공부하기 좋습니다.(지저분,,model.py, utils.py 필요 없습니다.)   
+***COCO dataset 용량에 주의하세요!***
+
 ## Model
 ### Image Captioning with Semantic Attention
 ![image](https://user-images.githubusercontent.com/74405346/116520266-78b92280-a90d-11eb-9d23-a5e9512d69fe.png)
