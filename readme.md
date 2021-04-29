@@ -5,8 +5,8 @@ Deeplearning 분야에서 멀티 모달리티 integration은 갈수록 중요해
 ## Dataset
 - COCO data set 2017 version
 - 15만장 이상의 이미지, 5개 caption  
-[COCO data](https://cocodataset.org/#home)  
-***COCO dataset 용량에 주의하세요!***
+[COCO data](https://cocodataset.org/#home) 
+***COCO dataset 용량에 주의하세요! 다운로드 & upzip 오래걸림***
 
 ## Files
 - project4_v1_run.ipynb : model.py, utils.py가 필요합니다.
