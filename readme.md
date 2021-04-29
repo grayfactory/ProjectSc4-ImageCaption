@@ -4,7 +4,7 @@ Deeplearning 분야에서 멀티 모달리티 integration은 갈수록 중요해
 
 ## Dataset
 - COCO data set 2017 version
-- 15만장 이상의 이미지, 5개 caption
+- 15만장 이상의 이미지, 5개 caption  
 [COCO data](https://cocodataset.org/#home)
 
 ## Model
@@ -24,6 +24,6 @@ Top-Down Approach가 현재 가장 많이 쓰이고 있는 접근 이며, RNN를
 
 
 ## Reference
-https://openaccess.thecvf.com/content_cvpr_2016/papers/You_Image_Captioning_With_CVPR_2016_paper.pdf
-https://www.tensorflow.org/tutorials/text/image_captioning
-https://github.com/amanmohanty/idl-nncompress
+https://openaccess.thecvf.com/content_cvpr_2016/papers/You_Image_Captioning_With_CVPR_2016_paper.pdf  
+https://www.tensorflow.org/tutorials/text/image_captioning  
+https://github.com/amanmohanty/idl-nncompress  
